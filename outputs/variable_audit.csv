@@ -1,0 +1,10 @@
+"variable","class","missing_values","zero_values"
+"Pregnancies","numeric",0,111
+"Glucose","numeric",0,5
+"BloodPressure","numeric",0,35
+"SkinThickness","numeric",0,227
+"Insulin","numeric",0,374
+"BMI","numeric",0,11
+"DiabetesPedigreeFunction","numeric",0,0
+"Age","numeric",0,0
+"Outcome","numeric",0,500

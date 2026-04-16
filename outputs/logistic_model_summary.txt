@@ -1,0 +1,22 @@
+
+Call:
+glm(formula = Outcome ~ BMI + Age + Glucose, family = binomial, 
+    data = logistic_regression_data)
+
+Coefficients:
+             Estimate Std. Error z value Pr(>|z|)    
+(Intercept) -9.032377   0.711037 -12.703  < 2e-16 ***
+BMI          0.089753   0.014377   6.243  4.3e-10 ***
+Age          0.028699   0.007809   3.675 0.000238 ***
+Glucose      0.035548   0.003481  10.212  < 2e-16 ***
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 974.75  on 751  degrees of freedom
+Residual deviance: 724.96  on 748  degrees of freedom
+AIC: 732.96
+
+Number of Fisher Scoring iterations: 4
+
