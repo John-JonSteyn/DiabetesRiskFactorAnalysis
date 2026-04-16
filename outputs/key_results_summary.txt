@@ -1,0 +1,21 @@
+Summary
+Sample size: 768
+Diabetes cases: 268
+Diabetes percentage: 34.9 %
+
+T-test p-value for glucose by outcome: 2.844e-41
+T-test p-value for pregnancies by outcome: 6.822e-09
+T-test p-value for BMI by outcome: 2.484e-18
+T-test p-value for age by outcome: 1.202e-11
+T-test p-value for diabetes pedigree function by outcome: 6.1e-06
+
+Chi-square p-value for age group and outcome: 4.451e-15
+Chi-square p-value for BMI category and outcome: 0.0004998
+ANOVA p-value for glucose across age groups: 9.566e-13
+
+Linear model adjusted R-squared: 0.3903
+Logistic model accuracy: 0.7699
+Logistic model sensitivity: 0.5682
+Logistic model specificity: 0.8791
+Hosmer-Lemeshow p-value: 0.2093
+Interaction model comparison p-value: 0.4527

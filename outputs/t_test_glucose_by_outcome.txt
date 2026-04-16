@@ -1,0 +1,12 @@
+
+	Welch Two Sample t-test
+
+data:  Glucose by OutcomeFactor
+t = -14.884, df = 466.02, p-value < 2.2e-16
+alternative hypothesis: true difference in means between group No Diabetes and group Diabetes is not equal to 0
+95 percent confidence interval:
+ -35.85757 -27.49380
+sample estimates:
+mean in group No Diabetes    mean in group Diabetes 
+                 110.6439                  142.3195 
+

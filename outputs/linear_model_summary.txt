@@ -1,0 +1,26 @@
+
+Call:
+lm(formula = Glucose ~ Age + BMI + Pregnancies + BloodPressure + 
+    SkinThickness + Insulin + DiabetesPedigreeFunction, data = linear_regression_data)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-71.185 -15.558  -3.087  11.847  74.331 
+
+Coefficients:
+                         Estimate Std. Error t value Pr(>|t|)    
+(Intercept)              60.03002    8.44119   7.112 5.65e-12 ***
+Age                       0.57734    0.17182   3.360 0.000857 ***
+BMI                       0.13038    0.24389   0.535 0.593239    
+Pregnancies               0.07383    0.52315   0.141 0.887848    
+BloodPressure             0.21341    0.10769   1.982 0.048219 *  
+SkinThickness             0.07433    0.15769   0.471 0.637628    
+Insulin                   0.13321    0.01084  12.293  < 2e-16 ***
+DiabetesPedigreeFunction  4.17855    3.62412   1.153 0.249635    
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+Residual standard error: 24.1 on 384 degrees of freedom
+Multiple R-squared:  0.4012,	Adjusted R-squared:  0.3903 
+F-statistic: 36.76 on 7 and 384 DF,  p-value: < 2.2e-16
+

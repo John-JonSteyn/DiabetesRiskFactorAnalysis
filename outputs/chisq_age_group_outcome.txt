@@ -1,0 +1,6 @@
+
+	Pearson's Chi-squared test
+
+data:  age_outcome_table
+X-squared = 69.915, df = 3, p-value = 4.451e-15
+

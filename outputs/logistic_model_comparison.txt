@@ -1,0 +1,7 @@
+Analysis of Deviance Table
+
+Model 1: Outcome ~ BMI + Age + Glucose + Pregnancies
+Model 2: Outcome ~ BMI * Age + Glucose + Pregnancies
+  Resid. Df Resid. Dev Df Deviance Pr(>Chi)
+1       747     712.90                     
+2       746     712.33  1  0.56379   0.4527

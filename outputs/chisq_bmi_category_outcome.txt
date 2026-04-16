@@ -1,0 +1,7 @@
+
+	Pearson's Chi-squared test with simulated p-value (based on 2000
+	replicates)
+
+data:  bmi_outcome_table
+X-squared = 77.057, df = NA, p-value = 0.0004998
+
