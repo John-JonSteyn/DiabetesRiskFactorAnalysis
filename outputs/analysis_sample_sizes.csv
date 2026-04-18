@@ -1,0 +1,11 @@
+"Analysis","N"
+"Raw dataset",768
+"Cleaned dataset",768
+"Non-missing Glucose",763
+"Non-missing BloodPressure",733
+"Non-missing SkinThickness",541
+"Non-missing Insulin",394
+"Non-missing BMI",757
+"Linear regression sample",392
+"Logistic regression sample",752
+"Logistic comparison sample",752

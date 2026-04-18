@@ -1,0 +1,6 @@
+"variable","raw_zero_count","treatment"
+"Glucose",5,"0 recoded to NA"
+"BloodPressure",35,"0 recoded to NA"
+"SkinThickness",227,"0 recoded to NA"
+"Insulin",374,"0 recoded to NA"
+"BMI",11,"0 recoded to NA"
